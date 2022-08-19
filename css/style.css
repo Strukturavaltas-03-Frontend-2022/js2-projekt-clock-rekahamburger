@@ -1,0 +1,44 @@
+
+@import url(//db.onlinewebfonts.com/c/5c2027c52853bb5415dd9bed358e6dbc?family=Cyberverse+Condensed);
+@font-face {font-family: "Cyberverse Condensed"; src: url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.eot"); src: url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.woff") format("woff"), url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/5c2027c52853bb5415dd9bed358e6dbc.svg#Cyberverse Condensed") format("svg"); }
+
+
+@media only screen and (max-width: 500px) {
+    html {
+      background:none !important;
+      background-color: black !important;
+      
+    }
+    #txt{
+        font-size:10 px;
+    }
+
+}
+    
+  
+
+h1 {
+    color: yellow;
+    position: relative;
+    left: 590px;
+    font-size: 50px;
+    font-family: 'Cyberverse Condensed';
+}
+
+html {
+
+    
+    background-image: url("https://rare-gallery.com/thumbs/561596-fantasy-art.jpg");
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#txt {
+    color: yellow;
+    text-align:center;
+    font-size: 250px;
+   font-family: 'Cyberverse Condensed';
+}
